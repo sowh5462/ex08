@@ -1,0 +1,8 @@
+@font-face {
+  font-family: GDR;
+  src: url("./GowunDodum-Regular.ttf");
+}
+body {
+  font-family: GDR;
+}
+

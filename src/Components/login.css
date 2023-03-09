@@ -1,0 +1,15 @@
+.login {
+    width: 20%;
+    text-align: center;
+    margin: auto;
+}
+.login input[type=text] {
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    
+}
+.login .button {
+    padding: 5px;
+}
